@@ -2,6 +2,8 @@
 
 [Link to presentation](https://alicemcgrath.digital.brynmawr.edu/pres/git-hub.html)
 
+text**text***text*
+
 ## Installation instructions
 
 Before we get started, please:
