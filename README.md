@@ -5,7 +5,7 @@
 text**text***text*
 
 eye
-
+eek!
 ## Installation instructions
 
 Before we get started, please:
